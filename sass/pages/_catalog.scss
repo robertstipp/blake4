@@ -1,0 +1,29 @@
+.catalog {
+  background: white;
+  padding: 5rem;
+  columns: 5;
+
+  height: 100vh;
+  &__section {
+    &:not(:last-child) {
+      margin-bottom: -10rem;
+    }
+  }
+}
+.product__list {
+  list-style: none;
+  font-size: 1.5rem;
+
+  a:link,
+  a:visited {
+    text-decoration: none;
+    font-family: inherit;
+    text-transform: uppercase;
+  }
+
+  li {
+    &:nth-child(odd) {
+      background-color: $color-header-light;
+    }
+  }
+}

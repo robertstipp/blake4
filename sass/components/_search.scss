@@ -1,0 +1,49 @@
+.search {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  &__icon {
+    height: 2rem;
+    width: 2rem;
+  }
+  &__input {
+    font-family: inherit;
+    font-size: 2rem;
+    background-color: transparent;
+    text-transform: uppercase;
+    border: 1px solid white;
+    color: white;
+    border-radius: 2px;
+    padding: 0.7rem 2rem;
+    margin-right: -4.25rem;
+    width: 20%;
+    transition: all 0.3s cubic-bezier(0.17, 0.67, 0.83, 0.67);
+
+    &:is(:hover, :focus) {
+      outline: none;
+      width: 100%;
+      border-color: white;
+    }
+
+    &:is(:hover, :focus)::-webkit-input-placeholder {
+      color: white;
+    }
+
+    &::-webkit-input-placeholder {
+      font-weight: 300;
+      color: transparent;
+    }
+  }
+
+  &__button {
+    border: none;
+    background-color: transparent;
+  }
+
+  &__icon {
+    height: 2.5rem;
+    width: 2.5rem;
+    fill: white;
+  }
+}

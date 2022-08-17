@@ -1,0 +1,5623 @@
+[
+  {
+    "blakePartNumber": "BW-321BU-X",
+    "awg": 32,
+    "stranding": "Solid",
+    "mil spec": "M16878/1-BAA",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-327BU-X",
+    "awg": 32,
+    "stranding": "7 x 40",
+    "mil spec": "M16878/1-BAB",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-301BU-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": "M16878/1-BBA",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-307BU-X",
+    "awg": 30,
+    "stranding": "7 x 38",
+    "mil spec": "M16878/1-BBB",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-281BU-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": "M16878/1-BCA",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-287BU-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M16878/1-BCB",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-261BU-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": "M16878/1-BDA",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-267BU-X",
+    "awg": 26,
+    "stranding": "7 x 34",
+    "mil spec": "M16878/1-BDB",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2619BU-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M16878/1-BDE",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-241BU-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": "M16878/1-BEA",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-247BU-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/1-BEB",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2419BU-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/1-BEE",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-221BU-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": "M16878/1-BFA",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-227BU-X",
+    "awg": 22,
+    "stranding": "7 x 30",
+    "mil spec": "M16878/1-BFB",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2219BU-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M16878/1-BFE",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-201BU-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": "M16878/1-BGA",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-207BU-X",
+    "awg": 20,
+    "stranding": "7 x 28",
+    "mil spec": "M16878/1-BGB",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2019BU-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/1-BGE",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-187BU-X",
+    "awg": 18,
+    "stranding": "7 x 26",
+    "mil spec": "M16878/1-BHB",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1819BU-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M16878/1-BHE",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1619BU-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M16878/1-BKE",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1419BU-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M16878/1-BJE",
+    "link": "./img/catalog/Page 2_M16878_1.pdf"
+  },
+  {
+    "blakePartNumber": "BW-261CU-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": "M16878/2-BDA",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-267CU-X",
+    "awg": 26,
+    "stranding": "7 x 34",
+    "mil spec": "M16878/2-BDB",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2619CU-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M16878/2-BDE",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-241CU-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": "M16878/2-BEA",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-247CU-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/2-BEB",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2419CU-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/2-BEE",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-221CU-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": "M16878/2-BFA",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-227CU-X",
+    "awg": 22,
+    "stranding": "7 x 30",
+    "mil spec": "M16878/2-BFB",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2219CU-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M16878/2-BFE",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-201CU-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": "M16878/2-BGA",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-207CU-X",
+    "awg": 20,
+    "stranding": "7 x 28",
+    "mil spec": "M16878/2-BGB",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2019CU-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/2-BGE",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-181CU-X",
+    "awg": 18,
+    "stranding": "Solid",
+    "mil spec": "M16878/2-BHA",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-187CU-X",
+    "awg": 18,
+    "stranding": "7 x 26",
+    "mil spec": "M16878/2-BHB",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1819CU-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M16878/2-BHE",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-161CU-X",
+    "awg": 16,
+    "stranding": "Solid",
+    "mil spec": "M16878/2-BJA",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1619CU-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M16878/2-BJE",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-141CU-X",
+    "awg": 14,
+    "stranding": "Solid",
+    "mil spec": "M16878/2-BKA",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1419CU-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M16878/2-BKE",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1219CU-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M16878/2-BLE",
+    "link": "./img/catalog/Page 3_M16878_2.pdf"
+  },
+  {
+    "blakePartNumber": "BW-267DU-X",
+    "awg": 26,
+    "stranding": "7 x 34",
+    "mil spec": "M16878/3-BDB",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-247DU-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/3-BEB",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2419DU-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/3-BEE",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-227DU-X",
+    "awg": 22,
+    "stranding": "7 x 30",
+    "mil spec": "M16878/3-BFB",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2219DU-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M16878/3-BFE",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-207DU-X",
+    "awg": 20,
+    "stranding": "7 x 28",
+    "mil spec": "M16878/3-BGB",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2019DU-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/3-BGE",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-187DU-X",
+    "awg": 18,
+    "stranding": "7 x 26",
+    "mil spec": "M16878/3-BHB",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1819DU-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M16878/3-BHE",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1619DU-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M16878/3-BJE",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1419DU-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M16878/3-BKE",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1219DU-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M16878/3-BLE",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1037DU-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M16878/3-BMG",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-8133DU-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M16878/3-BNL",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6133DU-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M16878/3-BPL",
+    "link": "./img/catalog/Page 4_M16878_3.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0009-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": "M16878/4-BBA",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0005-X",
+    "awg": 30,
+    "stranding": "7 x 38 ",
+    "mil spec": "M16878/4-BBB",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0019-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": "M16878/4-BCA",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0010-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M16878/4-BCB",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0015-X",
+    "awg": 28,
+    "stranding": "19 x 40",
+    "mil spec": "M16878/4-BCE",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0029-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": "M16878/4-BDA",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0020-X",
+    "awg": 26,
+    "stranding": "7 x 34",
+    "mil spec": "M16878/4-BDB",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0025-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M16878/4-BDE",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0039-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": "M16878/4-BEA",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0030-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/4-BEB",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0035-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/4-BEE",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0049-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": "M16878/4-BFA",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0040-X",
+    "awg": 22,
+    "stranding": "7 x 30",
+    "mil spec": "M16878/4-BFB",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0045-X",
+    "awg": 22,
+    "stranding": "19 x34",
+    "mil spec": "M16878/4-BFE",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0059-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": "M16878/4-BGA",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0050-X",
+    "awg": 20,
+    "stranding": "7 x 28",
+    "mil spec": "M16878/4-BGB",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0055-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/4-BGE",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0069-X",
+    "awg": 18,
+    "stranding": "Solid",
+    "mil spec": "M16878/4-BHA",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0065-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M16878/4-BHE",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0075-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M16878/4-BJE",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0085-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M16878/4-BKE",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0095-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M16878/4-BLE",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0100-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M16878/4-BMG",
+    "link": "./img/catalog/Page 5_M16878_4.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0200-X",
+    "awg": 32,
+    "stranding": "Solid",
+    "mil spec": "M16878/5-BAA",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0201-X",
+    "awg": 32,
+    "stranding": "7 x 40",
+    "mil spec": "M16878/5-BAB",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0202-X",
+    "awg": 30,
+    "stranding": "Solid ",
+    "mil spec": "M16878/5-BBA",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0203-X",
+    "awg": 30,
+    "stranding": "7 x 38",
+    "mil spec": "M16878/5-BBB",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0204-X",
+    "awg": 30,
+    "stranding": "19 x 42",
+    "mil spec": "M16878/5-BBE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0219-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": "M16878/5-BCA",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0210-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M16878/5-BCB",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0215-X",
+    "awg": 28,
+    "stranding": "19 x 40",
+    "mil spec": "M16878/5-BCE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0229-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": "M16878/5-BDA",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0220-X",
+    "awg": 26,
+    "stranding": "7 x 34",
+    "mil spec": "M16878/5-BDB",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0225-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M16878/5-BDE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0239-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": "M16878/5-BEA",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0230-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/5-BEB",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0235-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/5-BEE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0249-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": "M16878/5-BFA",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0240-X",
+    "awg": 22,
+    "stranding": "7 x 30",
+    "mil spec": "M16878/5-BFB",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0245-X",
+    "awg": 22,
+    "stranding": "19 x 34 ",
+    "mil spec": "M16878/5-BFE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0259-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": "M16878/5-BGA",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0250-X",
+    "awg": 20,
+    "stranding": "7 x 28",
+    "mil spec": "M16878/5-BGB",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0255-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/5-BGE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0269-X",
+    "awg": 18,
+    "stranding": "Solid",
+    "mil spec": "M16878/5-BHA",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0265-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M16878/5-BHE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0275-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M16878/5-BJE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0285-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M16878/5-BKE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0295-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M16878/5-BLE",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0207-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M16878/5-BMG",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0213-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M16878/5-BNL",
+    "link": "./img/catalog/Page 6_M16878_5.pdf"
+  },
+  {
+    "blakePartNumber": "BW-0400-X",
+    "awg": 32,
+    "stranding": "Solid",
+    "mil spec": "M16878/6-BAA",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0401-X",
+    "awg": 32,
+    "stranding": "7 x 40",
+    "mil spec": "M16878/6-BAB",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0409-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": "M16878/6-BBA",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0408-X",
+    "awg": 30,
+    "stranding": "7 x 38",
+    "mil spec": "M16878/6-BBB",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0419-X",
+    "awg": 28,
+    "stranding": "Solid ",
+    "mil spec": "M16878/6-BCA",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0410-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M16878/6-BCB",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0415-X",
+    "awg": 28,
+    "stranding": "19 x 40",
+    "mil spec": "M16878/6-BCE",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0429-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": "M16878/6-BDA",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0420-X",
+    "awg": 26,
+    "stranding": "7 x 34",
+    "mil spec": "M16878/6-BDB",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0425-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M16878/6-BDE",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0439-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": "M16878/6-BEA",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0430-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/6-BEB",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0435-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/6-BEE",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0445-X",
+    "awg": 22,
+    "stranding": "7 x 30 ",
+    "mil spec": "M16878/6-BFB",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0440-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M16878/6-BFE",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0450-X",
+    "awg": 20,
+    "stranding": "7 x 28",
+    "mil spec": "M16878/6-BGB",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-0455-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/6-BGE",
+    "link": "./img/catalog/Page 7_M16878_6 .pdf"
+  },
+  {
+    "blakePartNumber": "BW-321L-X",
+    "awg": 32,
+    "stranding": "Solid",
+    "mil spec": "M16878/14-BAA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-327L-X",
+    "awg": 32,
+    "stranding": "7 x 40",
+    "mil spec": "M16878/14-BAB",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-301L-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": "M16878/14-BBA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-307L-X",
+    "awg": 30,
+    "stranding": "7 x 38 ",
+    "mil spec": "M16878/14-BBB",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-281L-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": "M16878/14-BCA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-287L-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M16878/14-BCB",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-261L-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": "M16878/14-BDA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-267L-X",
+    "awg": 26,
+    "stranding": "7 x 34",
+    "mil spec": "M16878/14-BDB",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2619L-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M16878/14-BDE",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-241L-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": "M16878/14-BEA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-247L-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/14-BEB",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2419L-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/14-BEE",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-221L-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": "M16878/14/BFA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-227L-X",
+    "awg": 22,
+    "stranding": "7 x 30",
+    "mil spec": "M16878/14/BFB",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2219L-X",
+    "awg": 22,
+    "stranding": "19 x34",
+    "mil spec": "M16878/14-BFE",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-201L-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": "M16878/14-BGA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-207L-X",
+    "awg": 20,
+    "stranding": "7 x 28",
+    "mil spec": "M16878/14-BGB",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2019L-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/14-BGE",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-181L-X",
+    "awg": 18,
+    "stranding": "Solid",
+    "mil spec": "M16878/14-BHA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-187L-X",
+    "awg": 18,
+    "stranding": "7 x 26",
+    "mil spec": "M16878/14-BHB",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1819L-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M16878/14-BHE",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-161L-X",
+    "awg": 16,
+    "stranding": "Solid",
+    "mil spec": "M16878/14-BJA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1619L-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M16878/14-BJE",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-141L-X",
+    "awg": 14,
+    "stranding": "Solid",
+    "mil spec": "M16878/14-BKA",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1419L-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M16878/14-BKE",
+    "link": "./img/catalog/Page 8_M16878_14.pdf"
+  },
+  {
+    "blakePartNumber": "BW-261LL-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": "M16878/15-BDA",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-267LL-X",
+    "awg": 26,
+    "stranding": "7 x 34",
+    "mil spec": "M16878/15-BDB",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2619LL-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M16878/15-BDE",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-241LL-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": "M16878/15-BEA",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-247LL-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/15-BEB",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2419LL-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/15-BEE",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-221LL-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": "M16878/15-BFA",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-227LL-X",
+    "awg": 22,
+    "stranding": "7 x 30",
+    "mil spec": "M16878/15-BFB",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2219LL-X",
+    "awg": 22,
+    "stranding": "19 x34",
+    "mil spec": "M16878/15-BFE",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-201LL-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": "M16878/15-BGA",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-207LL-X",
+    "awg": 20,
+    "stranding": "7 x 28",
+    "mil spec": "M16878/15-BGB",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2019LL-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/15-BGE",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-181LL-X",
+    "awg": 18,
+    "stranding": "Solid",
+    "mil spec": "M16878/15-BHA",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-187LL-X",
+    "awg": 18,
+    "stranding": "7 x 26",
+    "mil spec": "M16878/15-BHB",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1819LL-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M16878/15-BHE",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-161LL-X",
+    "awg": 16,
+    "stranding": "Solid",
+    "mil spec": "M16878/15-BJA",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1619LL-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M16878/15-BJE",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1626LL-X",
+    "awg": 16,
+    "stranding": "26 x 30",
+    "mil spec": "M16878/15-BJF",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-141LL-X",
+    "awg": 14,
+    "stranding": "Solid",
+    "mil spec": "M16878/15-BKA",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1419LL-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M16878/15-BKE",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1219LL-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M16878/15-BLE",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1237LL-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M16878/15-BLG",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1265LL-X",
+    "awg": 12,
+    "stranding": "65 x 30",
+    "mil spec": "M16878/15-BLJ",
+    "link": "./img/catalog/Page 9_M16878_15.pdf"
+  },
+  {
+    "blakePartNumber": "BW-261LX-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": "M16878/16-BDA",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-267LX-X",
+    "awg": 26,
+    "stranding": "7 x 34",
+    "mil spec": "M16878/16-BDB",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2619LX-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M16878/16-BDE",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-241LX-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": "M16878/16-BEA",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-247LX-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/16-BEB",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2419LX-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/16-BEE",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-221LX-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": "M16878/16-BFA",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-227LX-X",
+    "awg": 22,
+    "stranding": "7 x 30",
+    "mil spec": "M16878/16-BFB",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2219LX-X",
+    "awg": 22,
+    "stranding": "19 x34",
+    "mil spec": "M16878/16-BFE",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-201LX-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": "M16878/16-BGA",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-207LX-X",
+    "awg": 20,
+    "stranding": "7 x 28",
+    "mil spec": "M16878/16-BGB",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2019LX-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/16-BGE",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-181LX-X",
+    "awg": 18,
+    "stranding": "Solid",
+    "mil spec": "M16878/16-BHA",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-187LX-X",
+    "awg": 18,
+    "stranding": "7 x 26",
+    "mil spec": "M16878/16-BHB",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1819LX-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M16878/16-BHE",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-161LX-X",
+    "awg": 16,
+    "stranding": "Solid",
+    "mil spec": "M16878/16-BJA",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1619LX-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M16878/16-BJE",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1626LX-X",
+    "awg": 16,
+    "stranding": "26 x 30",
+    "mil spec": "M16878/16-BJF",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-141LX-X",
+    "awg": 14,
+    "stranding": "Solid",
+    "mil spec": "M16878/16-BKA",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1419LX-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M16878/16-BKE",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1219LX-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M16878/16-BLE",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1237LX-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M16878/16-BLG",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1265LX-X",
+    "awg": 12,
+    "stranding": "65 x 30",
+    "mil spec": "M16878/16-BLJ",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1037LX-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M16878/16-BMG",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-865LX-X",
+    "awg": 8,
+    "stranding": "65 x 30 ",
+    "mil spec": "M16878/16-BNJ",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6133LX-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M16878/16-BPL",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-4133LX-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M16878/16-BRL",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2133LX-X",
+    "awg": 2,
+    "stranding": "133 x 23",
+    "mil spec": "M16878/16-BSL",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW2665LX-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M16878/16-BSP",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW1817LX-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M16878/16-BTR",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW1/0259LX-X",
+    "awg": 1,
+    "stranding": "259 x 24",
+    "mil spec": "M16878/16-BUN",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW1/01045LX-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M16878/16-BUS",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW2/01330LX-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M16878/16-BWT",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW3/01665LX-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M16878/16-BYV",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW4/02109LX-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M16878/16-BZW",
+    "link": "./img/catalog/Page 10_M16878_16.pdf"
+  },
+  {
+    "blakePartNumber": "BW-247DN-X",
+    "awg": 24,
+    "stranding": "7 x 32",
+    "mil spec": "M16878/19-BEB",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2419DN-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M16878/19-BEE",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-227DN-X",
+    "awg": 22,
+    "stranding": "7 x 30",
+    "mil spec": "M16878/19-BFB",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2219DN-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M16878/19-BFE",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2019DN-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M16878/19-BGE",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1819DN-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M16878/19-BHE",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1619DN-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M16878/19-BJE",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1419DN-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M16878/19-BKE",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1219DN-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M16878/19-BLE",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1037DN-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M16878/19-BMG",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-8133DN-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M16878/19-BNL",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6133DN-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M16878/19-BPL",
+    "link": "./img/catalog/Page 12_M16878_19.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1530-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/5-24",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1540-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/5-22",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1550-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/5-20",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1560-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/5-18",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1570-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/5-16",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1580-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/5-14",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1590-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M22759/5-12",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1500-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/5-10",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1508-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/5-8",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1506-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/5-6",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1504-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/5-4",
+    "link": "./img/catalog/Page 14_M22759_5-6.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1630-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/7-24",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1640-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/7-22",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1650-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/7-20",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1660-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/7-18",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1670-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/7-16",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1680-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/7-14",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1690-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M22759/7-12",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1600-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/7-10",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1608-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/7-8",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1606-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/7-6",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1604-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/7-4",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1730-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/8-24",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1740-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/8-22",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1750-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/8-20",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1760-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/8-18",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1770-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/8-16",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1780-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/8-14",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1790-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M22759/8-12",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1700-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/8-10",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1708-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/8-8",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1706-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/8-6",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1704-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/8-4",
+    "link": "./img/catalog/Page 15_M22759_7-8.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1910-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M22759/9-28",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1920-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/9-26",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1930-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/9-24",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1940-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/9-22",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1950-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/9-20",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1960-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/9-18",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1970-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/9-16",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1980-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/9-14",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1990-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M22759/9-12",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1900-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/9-10",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-1908-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/9-8",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2010-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M22759/10-28",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/10-26",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/10-24",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/10-22",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/10-20",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2060-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/10-18",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2070-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/10-16",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2080-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/10-14",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2090-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M22759/10-12",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2000-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/10-10",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2008-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/10-8",
+    "link": "./img/catalog/Page 16_M22759_9-10.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2110-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M22759/11-28",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2120-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/11-26",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2130-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/11-24",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2140-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/11-22",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2150-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/11-20",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2160-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/11-18",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2170-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/11-16",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2180-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/11-14",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2190-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M22759/11-12",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2100-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/11-10",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2108-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/11-8",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2210-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M22759/12-28",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2220-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/12-26",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2230-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/12-24",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2240-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/12-22",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2250-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/12-20",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2260-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/12-18",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2270-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/12-16",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2280-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/12-14",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2290-X",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M22759/12-12",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2200-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/12-10",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2208-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/12-8",
+    "link": "./img/catalog/Page 17_M22759_11-12.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2330",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/16-24",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2340",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/16-22",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2350",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/16-20",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2360",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/16-18",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2370",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/16-16",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2380",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/16-14",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2390",
+    "awg": 12,
+    "stranding": "19 x 25",
+    "mil spec": "M22759/16-12",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2300",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/16-10",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2308",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/16-8",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2306",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/16-6",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2304",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/16-4",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2302",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/16-2",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2301",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/16-1",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2301/0",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/16-1/0",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2302/0",
+    "awg": 2,
+    "stranding": "1330 X 30",
+    "mil spec": "M22759/16-2/0",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2420-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/18-26",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2430-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/18-24",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2440-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/18-22",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2450-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/18-20",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2460-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/18-18",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2470-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/18-16",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2480-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/18-14",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2490-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/18-12",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2400-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/18-10",
+    "link": "./img/catalog/Page 18_M22759_16-18.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2600-X",
+    "awg": 30,
+    "stranding": "7 x 38",
+    "mil spec": "M22759/32-30",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2610-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M22759/32-28",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2620-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/32-26",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2630-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/32-24",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2640-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/32-22",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2650-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/32-20",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2660-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/32-18",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2670-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/32-16",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2680-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/32-14",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2690-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/32-12",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2700-X",
+    "awg": 30,
+    "stranding": "7 x 38",
+    "mil spec": "M22759/33-30",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2710-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M22759/33-28",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2720-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/33-26",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2730-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/33-24",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2740-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/33-22",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2750-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/33-20",
+    "link": "./img/catalog/Page 19_M22759_32-33.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2830-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/34-24",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2840-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/34-22",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2850-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/34-20",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2860-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/34-18",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2870-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/34-16",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2880-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/34-14",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2890-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/34-12",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2800-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/34-10",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2808-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/34-8",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2806-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/34-6",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2804-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/34-4",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2802-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/34-2",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2801-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/34-1",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2801/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/34-1/0",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2802/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/34-2/0",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2920-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/35-26",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2930-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/35-24",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2940-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/35-22",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-2950-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/35-20",
+    "link": "./img/catalog/Page 20_M22759_34-35.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/41-26",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/41-24",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/41-22",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/41-20",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3060-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/41-18",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3070-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/41-16",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3080-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/41-14",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3090-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/41-12",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3000-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/41-10",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3008-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/41-8",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3006-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/41-6",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3004-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/41-4",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/41-2",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/41-1",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/41-1/0",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/41-2/0",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3120-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/42-26",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3130-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/42-24",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3140-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/42-22",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3150-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/42-20",
+    "link": "./img/catalog/Page 21_M22759_41-42.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3220-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/43-26",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3230-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/43-24",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3240-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/43-22",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3250-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/43-20",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3260-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/43-18",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3270-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/43-16",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3280-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/43-14",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3290-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/43-12",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3200-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/43-10",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3208-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/43-8",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3310-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M22759/44-28",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3320-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/44-26",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3330-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/44-24",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3340-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/44-22",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3350-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/44-20",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3360-X",
+    "awg": 18,
+    "stranding": "19 x 30 ",
+    "mil spec": "M22759/44-18",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3370-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/44-16",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3380-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/44-14",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3390-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/44-12",
+    "link": "./img/catalog/Page 22_M22759_43-44.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3410-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M22759/45-28",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3420-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/45-26",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3430-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/45-24",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3440-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/45-22",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3450-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/45-20",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3460-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/45-18",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3470-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/45-16",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3480-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/45-14",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-3490-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/45-12",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-4010-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": "M22759/46-28",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-4020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/46-26",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-4030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/46-24",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-4040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/46-22",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-4050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/46-20",
+    "link": "./img/catalog/Page 23_M22759_45-46.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6120-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/80-26",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6130-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/80-24",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6140-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/80-22",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6150-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/80-20",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6160-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/80-18",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6170-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/80-16",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6180-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/80-14",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6190-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/80-12",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6100-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/80-10",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6220-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/81-26",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6230-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/81-24",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6240-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/81-22",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6250-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/81-20",
+    "link": "./img/catalog/Page 24_M22759_80-81.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6320-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/82-26",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6330-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/82-24",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6340-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/82-22",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6350-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/82-20",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-15008-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/83-8",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-15006-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/83-6",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-15004-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/83-4",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-15002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/83-2",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-15001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/83-1",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-15001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/83-1/0",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-15002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/83-2/0",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-15003/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/83-3/0",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-15004/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/83-4/0",
+    "link": "./img/catalog/Page 25_M22759_82-83.pdf"
+  },
+  {
+    "blakePartNumber": "BW-16008-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/84-8",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-16006-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/84-6",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-16004-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/84-4",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-16002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/84-2",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-16001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/84-1",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-16001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/84-1/0",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-16002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/84-2/0",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-16003/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/84-3/0",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-16004/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/84-4/0",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-17008-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/85-8",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-17006-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/85-6",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-17004-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/85-4",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-17002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/85-2",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-17001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/85-1",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-17001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/85-1/0",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-17002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/85-2/0",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-17003/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/85-3/0",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-17004/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/85-4/0",
+    "link": "./img/catalog/Page 26_M22759_84-85.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6420-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/86-26",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6430-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/86-24",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6440-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/86-22",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6450-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/86-20",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6460-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/86-18",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6470-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/86-16",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6480-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/86-14",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6490-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/86-12",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6400-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/86-10",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6408-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/86-8",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6406-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/86-6",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6404-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/86-4",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6402-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/86-2",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6401-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/86-1",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6401/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/86-1/0",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6402/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/86-2/0",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6403/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/86-3/0",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6404/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/86-4/0",
+    "link": "./img/catalog/Page 27_M22759_86.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6520-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/87-26",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6530-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/87-24",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6540-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/87-22",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6550-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/87-20",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6560-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/87-18",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6570-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/87-16",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6580-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/87-14",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6590-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/87-12",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6500-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/87-10",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6508-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/87-8",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6506-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/87-6",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6504-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/87-4",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6502-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/87-2",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6501-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/87-1",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6501/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/87-1/0",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6502/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/87-2/0",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6503/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/87-3/0",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6504/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/87-4/0",
+    "link": "./img/catalog/Page 28_M22759_87.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6620-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/88-26",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6630-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/88-24",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6640-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/88-22",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6650-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/88-20",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6660-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/88-18",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6670-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/88-16",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6680-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/88-14",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6690-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/88-12",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6600-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/88-10",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6608-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/88-8",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6606-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/88-6",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6604-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/88-4",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6602-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/88-2",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6601-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/88-1",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6601/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/88-1/0",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6602/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/88-2/0",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6603/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/88-3/0",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6604/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/88-4/0",
+    "link": "./img/catalog/Page 29_M22759_88.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6720-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/89-26",
+    "link": "./img/catalog/Page 30_M22759_89-90.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6730-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/89-24",
+    "link": "./img/catalog/Page 30_M22759_89-90.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6740-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/89-22",
+    "link": "./img/catalog/Page 30_M22759_89-90.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6750-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/89-20",
+    "link": "./img/catalog/Page 30_M22759_89-90.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6820-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/90-26",
+    "link": "./img/catalog/Page 30_M22759_89-90.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6830-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/90-24",
+    "link": "./img/catalog/Page 30_M22759_89-90.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6840-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/90-22",
+    "link": "./img/catalog/Page 30_M22759_89-90.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6850-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/90-20",
+    "link": "./img/catalog/Page 30_M22759_89-90.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6920-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/91-26",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6930-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/91-24",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6940-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/91-22",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6950-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/91-20",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6960-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/91-18",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6970-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/91-16",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6980-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/91-14",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6990-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/91-12",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-6900-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/91-10",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-7020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/92-26",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-7030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/92-24",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-7040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/92-22",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-7050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/92-20",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-7060-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/92-18",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-7070-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/92-16",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-7080-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/92-14",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-7090-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/92-12",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BW-7000-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/92-10",
+    "link": "./img/catalog/Page 31_M22759_91-92.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-16020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/180-26",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-16030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/180-24",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-16040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/180-22",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-16050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/180-20",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-16060-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/180-18",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-16070-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/180-16",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-16080-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/180-14",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-16090-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/180-12",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-16000-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/180-10",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-17020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/181-26",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-17030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/181-24",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-17040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/181-22",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-17050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/181-20",
+    "link": "./img/catalog/Page 33_M22759_180-181.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-18020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/182-26",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-18030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/182-24",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-18040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/182-22",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-18050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/182-20",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-19002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/183-2",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-19001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/183-1",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-19001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/183-1/0",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-19002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/183-2/0",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-19003/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/183-3/0",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-19004/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/183-4/0",
+    "link": "./img/catalog/Page 34_M22759_182-183.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-20002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/184-2",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-20001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/184-1",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-20001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/184-1/0",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-20002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/184-2/0",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-20003/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/184-3/0",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-20004/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/184-4/0",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-21002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/185-2",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-21001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/183-1",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-21001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/185-1/0",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-21002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/185-2/0",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-21003/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/185-3/0",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-21004/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/185-4/0",
+    "link": "./img/catalog/Page 35_M22759_184-185.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": "M22759/186-26",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": "M22759/186-24",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": "M22759/186-22",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": "M22759/186-20",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22060-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": "M22759/186-18",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22070-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": "M22759/186-16",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22080-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": "M22759/186-14",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22090-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": "M22759/186-12",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22000-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": "M22759/186-10",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22008-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": "M22759/186-8",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22006-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": "M22759/186-6",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22004-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": "M22759/186-4/0",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": "M22759/186-2",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": "M22759/186-1",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": "M22759/186-1/0",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": "M22759/186-2/0",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22003/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": "M22759/186-3/0",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-22004/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": "M22759/186-4/0",
+    "link": "./img/catalog/Page 36_M22759_186.pdf"
+  },
+  {
+    "blakePartNumber": "BSPW-23020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23060-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23070-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23080-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23090-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23000-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23008-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23006-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23004-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23003/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-23004/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24060-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24070-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24080-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24090-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24000-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24008-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24006-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24004-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24002-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24001-X",
+    "awg": 1,
+    "stranding": "817 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24001/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24002/0-X",
+    "awg": 2,
+    "stranding": "1330 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24003/0-X",
+    "awg": 3,
+    "stranding": "1665 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-24004/0-X",
+    "awg": 4,
+    "stranding": "2109 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-25020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-25030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-25040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-25050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-26020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-26030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-26040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-26050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-27020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-27030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-27040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-27050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-27060-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-27070-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-27080-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-27090-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-27000-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-28020-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-28030-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-28040-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-28050-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-28060-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-28070X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-28080-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-28090-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BSPW-28000-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0530-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0540-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0550-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0560-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0570-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0580-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0590-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0500-X",
+    "awg": 10,
+    "stranding": "37 x 26",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0508-X",
+    "awg": 8,
+    "stranding": "133 x 29",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0506-X",
+    "awg": 6,
+    "stranding": "133 x 27",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0504-X",
+    "awg": 4,
+    "stranding": "133 x 25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0502-X",
+    "awg": 2,
+    "stranding": "665 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0501/0-X",
+    "awg": 1,
+    "stranding": "1045 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0530-X",
+    "awg": 30,
+    "stranding": "7 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0540-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0550-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0560-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0570-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0580-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0590-X",
+    "awg": 18,
+    "stranding": "19 x 30",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0500-X",
+    "awg": 16,
+    "stranding": "19 x 29",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0508-X",
+    "awg": 14,
+    "stranding": "19 x 27",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0506-X",
+    "awg": 12,
+    "stranding": "37 x 28",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0600-X",
+    "awg": 30,
+    "stranding": "7 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0610-X",
+    "awg": 28,
+    "stranding": "7 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0620-X",
+    "awg": 26,
+    "stranding": "19 x 38",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0630-X",
+    "awg": 24,
+    "stranding": "19 x 36",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0640-X",
+    "awg": 22,
+    "stranding": "19 x 34",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-0650-X",
+    "awg": 20,
+    "stranding": "19 x 32",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3600A-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3610A-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3620A-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3630A-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3640A-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3650A-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3600B-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3610B-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3620B-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3630B-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3640B-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3650B-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3600C-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3610C-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3620C-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3630C-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3640C-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3650C-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3700A-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3710A-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3720A-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3730A-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3740A-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3750A-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3760A-X",
+    "awg": 18,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3700B-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3710B-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3720B-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3730B-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3740B-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3750B-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3700B-X",
+    "awg": 18,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3700C-X",
+    "awg": 30,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3710C-X",
+    "awg": 28,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3720C-X",
+    "awg": 26,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3730C-X",
+    "awg": 24,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3740C-X",
+    "awg": 22,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3750C-X",
+    "awg": 20,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BW-3700C-X",
+    "awg": 18,
+    "stranding": "Solid",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9621XE",
+    "awg": 26,
+    "stranding": "19/38",
+    "mil spec": "2619E1SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9622XE",
+    "awg": 26,
+    "stranding": "19/38",
+    "mil spec": "2619E2SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9623XE",
+    "awg": 26,
+    "stranding": "19/38",
+    "mil spec": "2619E3SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9624XE",
+    "awg": 26,
+    "stranding": "19/38",
+    "mil spec": "2619E4SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9631XE",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E1SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9632XE",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E2SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9633XE",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E3SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9634XE",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E4SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9635XE",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E5SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9636XE",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E6SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9641XE",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E1SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9642XE",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E2SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9643XE",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E3SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9644XE",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E4SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9645XE",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E5SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9646XE",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E6SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9651XE",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E1SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9652XE",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E2SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9653XE",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E3SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9654XE",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E4SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9655XE",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E5SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9656XE",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E6SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9661XE",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E1SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9662XE",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E2SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9663XE",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E3SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9664XE",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E4SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9665XE",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E5SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9666XE",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E6SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9671XE",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E1SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9672XE",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E2SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9673XE",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E3SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9674XE",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E4SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9675XE",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E5SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9676XE",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E6SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9681XE",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E1SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9682XE",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E2SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9683XE",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E3SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9684XE",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E4SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9685XE",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E5SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9686XE",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E6SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9691XE",
+    "awg": 12,
+    "stranding": "19/25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9692XE",
+    "awg": 12,
+    "stranding": "19/25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9693XE",
+    "awg": 12,
+    "stranding": "19/25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9694XE",
+    "awg": 12,
+    "stranding": "19/25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9621TJ",
+    "awg": 26,
+    "stranding": "19/38",
+    "mil spec": "2619E1STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9622TJ",
+    "awg": 26,
+    "stranding": "19/38",
+    "mil spec": "2619E2STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9623TJ",
+    "awg": 26,
+    "stranding": "19/38",
+    "mil spec": "2619E3STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9624TJ",
+    "awg": 26,
+    "stranding": "19/38",
+    "mil spec": "2619E4STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9631TJ",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E1STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9632TJ",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E2STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9633TJ",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E3STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9634TJ",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E4STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9635TJ",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E5STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9636TJ",
+    "awg": 24,
+    "stranding": "19/36",
+    "mil spec": "2419E6STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9641TJ",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E1STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9642TJ",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E2STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9643TJ",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E3STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9644TJ",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E4STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9645TJ",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E5STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9646TJ",
+    "awg": 22,
+    "stranding": "19/34",
+    "mil spec": "2219E6STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9651TJ",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E1STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9652TJ",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E2STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9653TJ",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E3STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9654TJ",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E4STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9655TJ",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E5STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9656TJ",
+    "awg": 20,
+    "stranding": "19/32",
+    "mil spec": "2019E6STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9661TJ",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E1SXE",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9662TJ",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E2STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9663TJ",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E3STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9664TJ",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E4STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9665TJ",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E5STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9666TJ",
+    "awg": 18,
+    "stranding": "19/30",
+    "mil spec": "1819E6STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9671TJ",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E1STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9672TJ",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E2STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9673TJ",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E3STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9674TJ",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E4STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9675TJ",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E5STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9676TJ",
+    "awg": 16,
+    "stranding": "19/29",
+    "mil spec": "1619E6STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9681TJ",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E1STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9682TJ",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E2STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9683TJ",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E3STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9684TJ",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E4STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9685TJ",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E5STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9686TJ",
+    "awg": 14,
+    "stranding": "19/27",
+    "mil spec": "1419E6STJ",
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9691TJ",
+    "awg": 12,
+    "stranding": "19/25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9692TJ",
+    "awg": 12,
+    "stranding": "19/25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9693TJ",
+    "awg": 12,
+    "stranding": "19/25",
+    "mil spec": null,
+    "link": null
+  },
+  {
+    "blakePartNumber": "BCB-9694TJ",
+    "awg": 12,
+    "stranding": "19/25",
+    "mil spec": null,
+    "link": null
+  }
+]

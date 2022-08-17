@@ -1,0 +1,10 @@
+.quality {
+  background: white;
+  padding: 5rem;
+
+  &__section {
+    &:not(:last-child) {
+      margin-bottom: -10rem;
+    }
+  }
+}

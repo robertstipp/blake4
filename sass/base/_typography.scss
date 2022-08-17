@@ -1,0 +1,53 @@
+body {
+  font-family: $primary-font;
+  font-weight: 400;
+  font-size: $default-font-size;
+  line-height: 1.7;
+  color: $color-grey-dark;
+}
+
+.heading-primary {
+  color: $color-white;
+  text-transform: uppercase;
+  margin-bottom: 6rem;
+
+  &--main {
+    display: block;
+    font-size: 13rem;
+  }
+  &--sub {
+    display: block;
+    font-size: 1.85rem;
+    font-weight: 400;
+    letter-spacing: 0.8rem;
+  }
+}
+
+.heading-secondary {
+  background-image: $color-gradient-top-right;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-size: 8rem;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.heading-tertiary {
+  background-color: #1363df;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 800;
+  line-height: 1.1;
+
+  &--main {
+    font-size: 8rem;
+  }
+
+  &--sub {
+    font-size: 4rem;
+  }
+}

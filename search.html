@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <!-- <link rel="stylesheet" href="css/style.css" />   -->
+
+    <style>
+      body {
+        box-sizing: border-box;
+        background: lightblue;
+        display: grid;
+        align-items: center;
+        font-family: "Open Sans";
+        padding: 0;
+        margin: 0;
+      }
+
+      *,
+      *:after,
+      *:before {
+        margin: 0;
+        padding: 0;
+      }
+      .form-container {
+        width: 100%;
+        justify-content: center;
+      }
+      .form {
+        width: 100%;
+      }
+      .input {
+        width: 20%;
+        height: 30px;
+        border-radius: 10px;
+        border: 6px solid white;
+        background: transparent;
+        font-size: 2rem;
+      }
+      .input:active {
+        border: none;
+      }
+      li {
+        line-height: 1;
+        font-size: 1rem;
+        color: white;
+        background-color: #205375;
+        height: 3rem;
+        display: block;
+        cursor: pointer;
+      }
+      .list-item__partNumber {
+        margin-bottom: 0.2rem;
+      }
+
+      li:hover {
+        background: grey;
+        color: black;
+      }
+
+      a {
+        text-decoration: none;
+        background-color: #205375;
+        color: white;
+      }
+
+      .results-container {
+        margin: 0;
+        padding: 0;
+        width: 20%;
+        height: 0;
+        transition: all 1s;
+        overflow: scroll;
+        border: 1px solid blue;
+        border-radius: 0 0 2px 2px;
+      }
+
+      .active {
+        border-style: solid;
+        border-color: white;
+        border-width: 0 6px 6px 6px;
+      }
+      .results-list {
+        margin: 0;
+        list-style: none;
+      }
+      .searchBox {
+        display: grid;
+      }
+    </style>
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="searchBox">
+      <div class="form-container">
+        <form class="form">
+          <input
+            autocomplete="off"
+            id="search"
+            type="text"
+            class="input"
+            placeholder="search..."
+          />
+        </form>
+      </div>
+      <div class="results-container">
+        <ul class="results-list" id="list"></ul>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    <script type="module" src="js/search.js"></script>
+  </body>
+</html>

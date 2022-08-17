@@ -1,0 +1,48 @@
+$color-primary: #7fb5ff;
+$color-primary-dark: #001d6e;
+$color-primary-light: #c4ddff;
+
+$color-header-light: #1363df;
+
+$color-secondary: #db1d00;
+$color-secondary-light: #f52100;
+$color-secondary-dark: #b51800;
+
+$color-tertiary: #3bdb15;
+$color-tertiary-light: #41e817;
+$color-tertiary-dark: #1a5c09;
+
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #d2d2d2;
+
+$color-grey-dark: #606060;
+$color-grey-dark-2: #404040;
+$color-grey-dark-3: #202020;
+
+$color-white: #fff;
+$color-black: #000;
+
+// GRADIENTS
+$color-gradient-blue: linear-graient(#000428, #004e92);
+$color-gradient-top-right: linear-gradient(
+  45deg,
+  #64b5f6ff,
+  #42a5f5ff,
+  #2196f3ff,
+  #1e88e5ff,
+  #1976d2ff,
+  #1565c0ff,
+  #0d47a1ff
+);
+
+// FONT
+$default-font-size: 1.6rem;
+$primary-font: "Open Sans", sans-serif;
+
+// GRID
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
+$gutter-horizontal: 6rem;
+
+$border-radius: 3px;
